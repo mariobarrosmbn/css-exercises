@@ -1,0 +1,9 @@
+/* CSS exercise - external styling */
+
+div{
+    background-color: red;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+}
